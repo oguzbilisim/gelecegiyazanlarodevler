@@ -1,0 +1,11 @@
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\bin\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.deps.json
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\bin\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.runtimeconfig.json
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\bin\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.runtimeconfig.dev.json
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\bin\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.dll
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\bin\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.pdb
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\obj\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.csprojAssemblyReference.cache
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\obj\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\obj\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\obj\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.AssemblyInfo.cs
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\obj\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.dll
+C:\Users\Cinkaya\source\repos\FutbollGame_OOP_Odev2\FutbollGame_OOP_Odev2\obj\Debug\netcoreapp2.1\FutbollGame_OOP_Odev2.pdb

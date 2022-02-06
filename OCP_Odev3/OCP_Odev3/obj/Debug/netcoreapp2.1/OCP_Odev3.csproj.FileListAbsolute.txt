@@ -1,0 +1,11 @@
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\bin\Debug\netcoreapp2.1\OCP_Odev3.deps.json
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\bin\Debug\netcoreapp2.1\OCP_Odev3.runtimeconfig.json
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\bin\Debug\netcoreapp2.1\OCP_Odev3.runtimeconfig.dev.json
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\bin\Debug\netcoreapp2.1\OCP_Odev3.dll
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\bin\Debug\netcoreapp2.1\OCP_Odev3.pdb
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\obj\Debug\netcoreapp2.1\OCP_Odev3.csprojAssemblyReference.cache
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\obj\Debug\netcoreapp2.1\OCP_Odev3.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\obj\Debug\netcoreapp2.1\OCP_Odev3.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\obj\Debug\netcoreapp2.1\OCP_Odev3.AssemblyInfo.cs
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\obj\Debug\netcoreapp2.1\OCP_Odev3.dll
+C:\Users\Cinkaya\source\repos\OCP_Odev3\OCP_Odev3\obj\Debug\netcoreapp2.1\OCP_Odev3.pdb
