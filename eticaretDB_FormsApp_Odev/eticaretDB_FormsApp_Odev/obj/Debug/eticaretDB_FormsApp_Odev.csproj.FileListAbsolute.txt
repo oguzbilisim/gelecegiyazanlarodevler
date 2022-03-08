@@ -1,0 +1,10 @@
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\bin\Debug\eticaretDB_FormsApp_Odev.exe.config
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\bin\Debug\eticaretDB_FormsApp_Odev.exe
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\bin\Debug\eticaretDB_FormsApp_Odev.pdb
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.csprojAssemblyReference.cache
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.Form1.resources
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.Properties.Resources.resources
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.csproj.GenerateResource.cache
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.exe
+C:\Users\Cinkaya\source\repos\eticaretDB_FormsApp_Odev\eticaretDB_FormsApp_Odev\obj\Debug\eticaretDB_FormsApp_Odev.pdb
